@@ -12,7 +12,7 @@
 <?php
    include('header.php');
 ?>
-<body>
+<body style='background-color:#7a4949'>
   <div>
         <div class='admin'>
           <div id='admin_dash'><h1>ADMINDASHBOARD</h1></div>

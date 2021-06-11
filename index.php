@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>student management system</title>
 </head>
-<body>
+<body style='background-color:#c9c9e3;color:#000'>
    <div> 
       <h3 align='right' style="magin_right:20px"><a style="text-decoration:none" href="login.php" >Admin Login </a></h3>
       <h1 align="center" >Welcome to the student management system</h1>

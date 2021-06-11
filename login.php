@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="css/style.css" type="text/css" />
     <title>admin login</title>
 </head>
-<body>
+<body style='background-color:#9696be'>
      <div class="login_page">
          <a style="text-decoration:none" href='index.php'>Back</a>
          <h1 align="center">Admin Login </h1>
